@@ -1,6 +1,6 @@
-// CHAPTER 9-11
+// CHAPTER ..........9-11...........
 
-// Q1
+// 1
 
 // // Take city input from user
 // var city = prompt("Enter your city name:");
@@ -17,7 +17,7 @@
 //     document.write("The Gateway to Sindh");
 // }
 
-// Q2
+// 2
 // var gender = prompt("What is your Gender?")
 
 // if( gender && gender == "Male"){
@@ -28,7 +28,7 @@
 //     alert("Good Morning Ma'am");
 // }
 
-// Q3
+// 3
 // var signalcolor = prompt("Enter the traffic signal color (Red, Yellow, Green):")
 
 // if ( signalcolor && signalcolor == "Red"){
@@ -42,7 +42,7 @@
 
 // }
 
-// Q4
+// 4
 // var fuel = prompt("Remaining fuel in Car?")
 
 // if( fuel < 0.25 ){
@@ -50,7 +50,7 @@
 //     alert("Please refill the fuel in your car")
 // }
 
-// Q5
+// 5
 // var a = 4;
 // if (++a === 5){
 // alert("given condition for variable a is true");
@@ -114,7 +114,7 @@
 // alert("car is smaller than cat");
 // }
 
-// Q6
+// 6
 // var sub1 = +prompt("Enter marks obtained in Subject 1:");
 // var sub2 = +prompt("Enter marks obtained in Subject 2:");
 // var sub3 = +prompt("Enter marks obtained in Subject 3:");
@@ -147,7 +147,7 @@
 // document.write("Grade : " + grade + "<br>")
 // document.write("Remarks : " + remarks)
 
-// Q7
+// 7
 // var userGuess = +prompt("Guess number between 1 to 10 ?")
 
 // var secretNum = 7
@@ -157,16 +157,15 @@
 //     alert("Bingo! Correct answer");
 // }
 // else if( userGuess + 1 === secretNum){
-
 //     alert("Close enough to the correct answer");
 // }
-// Q8
+// 8
 // var num = +prompt("Enter a number to check if it's divisible by 3:");
 
 // if (num % 3 === 0) {
 //     alert("The number " + num + " is divisible by 3.");
 // }
-// Q9
+// 9
 // var num = +prompt("even number or an odd number:");
 
 // if (num % 2 === 0) {
@@ -174,7 +173,7 @@
 // }else{
 //     alert("the number " + num + " is is odd.");
 // }
-// Q10
+// 10
 // var weatherInput = +prompt("Input the temperature:")
 
 // if(weatherInput >= 40){
@@ -186,7 +185,7 @@
 // }else if(weatherInput >= 10){
 //       alert("OMG! Today’s weather is so Cool.")
 // }
-// Q11
+// 11
 // var inputNum1 = +prompt("Input a number one for calculation:")
 // var inputNum2 = +prompt("Input a number two for calculation:")
 // var operation = prompt("Enter operation (+, -, *, /, %):")
